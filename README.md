@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Atualmente sou Estudante de Engenharia de Software | 22 anos| Focado no desenvolvimento em Java e em constante evolução no ecossistema backend. 
+Atualmente sou Estudante de Engenharia de Software | 22 anos | Focado no desenvolvimento em Java e em constante evolução no ecossistema backend. 
 
 📚 Aprendendo cada vez mais sobre Spring Boot, MySQL e Docker
 
